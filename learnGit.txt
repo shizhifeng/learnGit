@@ -2,3 +2,4 @@ this is a test for git;
 without BOM is wonderful！
 this is secord change is this text!
 this is fourth time to change the document!
+this is a longer text than the top line in this text!
